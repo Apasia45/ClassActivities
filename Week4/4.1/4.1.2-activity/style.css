@@ -1,0 +1,27 @@
+h1,h2,h3{
+ padding-left: 50px;
+
+}
+
+p {
+  border-radius: 80px;
+}
+
+* {
+  background-color: lightblue;
+
+}
+
+h2 - p {
+  font-weight: bolder;
+}
+
+img{
+  padding-left: 40px;
+}
+
+#firstlist > li {
+  padding-left: 150px;
+}
+
+
